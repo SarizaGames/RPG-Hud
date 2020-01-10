@@ -133,7 +133,7 @@ public class GameData {
 	}
 
 	public static int getPlayerMaxFood() {
-		return 20;
+		return 100;
 	}
 
 	public static boolean doesPlayerNeedFood() {
